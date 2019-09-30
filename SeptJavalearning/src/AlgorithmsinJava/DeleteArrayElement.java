@@ -1,4 +1,4 @@
-package JavaSessions;
+package AlgorithmsinJava;
 
 public class DeleteArrayElement {
 public static void main(String[] args) {

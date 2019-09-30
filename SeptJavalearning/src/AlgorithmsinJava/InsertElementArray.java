@@ -1,4 +1,4 @@
-package JavaSessions;
+package AlgorithmsinJava;
 
 public class InsertElementArray {
 	public static void main(String[] args) {

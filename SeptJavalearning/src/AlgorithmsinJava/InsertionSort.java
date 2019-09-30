@@ -1,4 +1,4 @@
-package JavaSessions;
+package AlgorithmsinJava;
 
 public class InsertionSort {
 public static void main(String[] args) {

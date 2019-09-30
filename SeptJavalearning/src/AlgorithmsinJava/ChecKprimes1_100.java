@@ -1,4 +1,4 @@
-package JavaSessions;
+package AlgorithmsinJava;
 
 public class ChecKprimes1_100 {
 	public static void main(String[] args) {
